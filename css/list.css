@@ -1,0 +1,22 @@
+body{
+	background: #EEE;
+	text-align: center;
+}
+#back{
+	width:380px;
+	margin:50px auto;
+	padding:20px;
+	background:#E9E;
+}
+ul{
+	padding:20px;
+	border:lpx soild#CCC;
+}
+li{
+	height:30px;
+	list-style-image: url("images/disc.jpg");
+	font-size: 14px;
+	color: #122E67;
+	line-height: 30px;
+	border-bottom: 1px dotted #DDD;
+}

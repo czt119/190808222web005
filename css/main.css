@@ -1,0 +1,30 @@
+body
+{
+	font-size:16px;
+	color:#897777;
+	margin: 0;
+	padding: 0;}
+	h1{text-align: center;
+	font-family: 华文楷体,楷体,宋体;
+	font-size:20px;}
+	h2{font-family: 黑体;
+	font-size: 16px;
+	font-weight: normal;
+	color:#099}
+	p{line-height: 2em;}
+	.nav{background-color: #9F0;
+	margin-left: 15%;
+	margin-right: 15%;
+	text-align: center;
+	font-size: 18px;}
+	.copyright{margin-bottom: 10px;
+	text-align: center;}
+#container{
+	min-height: 700px;
+}
+div{
+	width:100px;
+	height:100px;
+	border:10px soild #F00283;
+	border-color: #000 #AAA #333 #999;
+}
